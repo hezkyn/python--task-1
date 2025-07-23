@@ -1,0 +1,19 @@
+ Indian City Temperature Checker 🌡
+1. Delhi
+2. Mumbai
+3. Chennai
+4. Kolkata
+5. Bengaluru
+6. Hyderabad
+7. Ahmedabad
+8. Pune
+9. Jaipur
+10. Lucknow
+
+Select a city by number (1-10): 10
+Enter your OpenWeatherMap API key: 
+
+ City: Lucknow
+ Temperature in Celsius:    32.29 °C
+ Temperature in Fahrenheit: 90.12 °F
+ Temperature in Kelvin:     305.44 K
